@@ -1,0 +1,41 @@
+
+(1) - - - - - - - - - - - - 
+
+pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install tesseract -y && pkg install python -y && npm i -g npm@6 
+
+(2)------------------------
+
+termux-setup-storage
+
+
+(3) - - - - - - - - - - - - 
+
+cd /sdcard/Nero
+
+ou 
+
+cd /sdcard/download/Nero
+
+(4) - - - - - - - - - - - -
+
+sh start.sh
+
+
+(5-INSTRUÇÃO) - - - - - - - - - -
+
+Quando fechar o termux, para ligar, é só abrir o termux novamente repita o quarto e quinto comandos
+
+
+
+Somente isso.
+           ///////////////////////|
+          ///////////////////////|||
+         ///////////////////////|||||
+        ///     /\/\       ////|||||||
+         //    (° v °)     //||||||||||||             
+         //    /|    |\     //|||||||||||                 
+         //     V---V      //|||||||||||                  
+         ///////////////////\\\\\\\
+se inscreva no meu canal para receber mais dicas....
+>
+>
