@@ -1,2 +1,4 @@
 # Nero-Md
-Base de bot de whatsapp 
+Base creada por 
+Base creada por [**@CloveMods**](https://github.com/clovermods/) 
+traducida y mejorada por [**@DavidModzz**](https://github.com/DavidModzz/)
